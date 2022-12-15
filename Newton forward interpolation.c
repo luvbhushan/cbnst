@@ -1,5 +1,5 @@
-# cbnst
-Mathematical codes
+// cbnst
+//Mathematical codes
 #include <stdio.h>
 
 // calculating u mentioned in the formula
